@@ -1,0 +1,6 @@
+Vex,ADC,2,Vex Forajida,N,Vex Portadora del amanecer,N
+Sett,TOP,1,Sett Forajido,E
+Lillia,JG,1,Lillia Forajida,L
+Ashe,JG,3,Ashe Forajida,L,Ashe Portadora del amanecer,N,Ashe Exploradora,N
+Nunu,MID,2,Nunu Forajido,E,Nunu Exploradora,L
+Zed,MID,2,Zed Forajido,L,Zed Estrella Oscura,E
